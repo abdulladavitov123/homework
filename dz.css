@@ -6,3 +6,7 @@ body{
     display: flex;
     background-color: darkgreen;
 }
+
+.div1 img{
+    padding: 40px;
+}
