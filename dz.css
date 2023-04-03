@@ -5,12 +5,10 @@ body{
 .div1{
     display: flex;
     background-color: darkgreen;
+    align-items: center;
 }
 
 .div1 img{
     padding: 40px;
 }
 
-.t1{
-    align-items: center;
-}
